@@ -1,0 +1,15 @@
+C:\Users\922747\source\repos\EmployeeAppAgain\EmployeeAppAgain\obj\Debug\net6.0\EmployeeAppAgain.csproj.AssemblyReference.cache
+C:\Users\922747\source\repos\EmployeeAppAgain\EmployeeAppAgain\obj\Debug\net6.0\EmployeeAppAgain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\922747\source\repos\EmployeeAppAgain\EmployeeAppAgain\obj\Debug\net6.0\EmployeeAppAgain.AssemblyInfoInputs.cache
+C:\Users\922747\source\repos\EmployeeAppAgain\EmployeeAppAgain\obj\Debug\net6.0\EmployeeAppAgain.AssemblyInfo.cs
+C:\Users\922747\source\repos\EmployeeAppAgain\EmployeeAppAgain\obj\Debug\net6.0\EmployeeAppAgain.csproj.CoreCompileInputs.cache
+C:\Users\922747\source\repos\EmployeeAppAgain\EmployeeAppAgain\bin\Debug\net6.0\EmployeeAppAgain.exe
+C:\Users\922747\source\repos\EmployeeAppAgain\EmployeeAppAgain\bin\Debug\net6.0\EmployeeAppAgain.deps.json
+C:\Users\922747\source\repos\EmployeeAppAgain\EmployeeAppAgain\bin\Debug\net6.0\EmployeeAppAgain.runtimeconfig.json
+C:\Users\922747\source\repos\EmployeeAppAgain\EmployeeAppAgain\bin\Debug\net6.0\EmployeeAppAgain.dll
+C:\Users\922747\source\repos\EmployeeAppAgain\EmployeeAppAgain\bin\Debug\net6.0\EmployeeAppAgain.pdb
+C:\Users\922747\source\repos\EmployeeAppAgain\EmployeeAppAgain\obj\Debug\net6.0\EmployeeAppAgain.dll
+C:\Users\922747\source\repos\EmployeeAppAgain\EmployeeAppAgain\obj\Debug\net6.0\refint\EmployeeAppAgain.dll
+C:\Users\922747\source\repos\EmployeeAppAgain\EmployeeAppAgain\obj\Debug\net6.0\EmployeeAppAgain.pdb
+C:\Users\922747\source\repos\EmployeeAppAgain\EmployeeAppAgain\obj\Debug\net6.0\EmployeeAppAgain.genruntimeconfig.cache
+C:\Users\922747\source\repos\EmployeeAppAgain\EmployeeAppAgain\obj\Debug\net6.0\ref\EmployeeAppAgain.dll
